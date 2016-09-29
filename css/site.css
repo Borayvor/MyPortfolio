@@ -1,0 +1,15 @@
+h1{
+    margin-bottom: 100px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    margin-bottom: 2em;
+}
+
+li:last-child {
+    margin-bottom: 30%;
+}
