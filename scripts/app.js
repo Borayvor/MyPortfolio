@@ -14,7 +14,7 @@ $(() => {
         }
     ];
 
-    $.get(`/templates/link.handlebars`)
+    $.get(`templates/link.handlebars`)
         .done((templ) => {
             let template = Handlebars.compile(templ);
             let html = template(data);
