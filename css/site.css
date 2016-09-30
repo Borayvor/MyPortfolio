@@ -1,15 +1,13 @@
-h1{
-    margin-bottom: 100px;
+h1 {
+    margin-bottom: 70px;
 }
 
-ul{
+ul {
     list-style-type: none;
+    padding: 0px ;
+    margin-bottom: 50%;
 }
 
-li{
+li {
     margin-bottom: 2em;
-}
-
-li:last-child {
-    margin-bottom: 30%;
 }
