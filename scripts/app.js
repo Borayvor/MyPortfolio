@@ -11,6 +11,10 @@ $(() => {
         {
             name: "Slice and Dice Course project",
             link: "http://best.telerikacademy.com/projects/167/Small-cuisine"
+        },
+        {
+            name: "ASP.NET MVC Course project",
+            link: "http://entertainmentsystem.apphb.com/"
         }
     ];
 
