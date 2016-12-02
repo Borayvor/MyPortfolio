@@ -14,7 +14,7 @@ $(() => {
         },
         {
             name: "ASP.NET MVC Course project",
-            link: "http://entertainmentsystem.apphb.com/"
+            link: "http://best.telerikacademy.com/projects/382/For-free-time"
         }
     ];
 
