@@ -21,6 +21,10 @@ $(() => {
         {
             name: 'Angular 2 Course project',
             link: 'http://best.telerikacademy.com/projects/446/Adventure-in-ten-photos'
+        },
+        {
+            name: 'ASP.NET MVC Course project - 2017',
+            link: 'http://best.telerikacademy.com/projects/597/Photo-school'
         }
     ];
 
